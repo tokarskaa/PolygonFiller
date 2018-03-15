@@ -1,0 +1,16 @@
+Kolorowanie wielok¹ta
+	Wybranie odpowiednich opcji z menu po lewej stronie ("Choose polygon color", "Choose normal vector", "Choose normal vector 	distortion"), klikniêcie prawym przyciskiem myszy na krawêdŸ wielok¹ta i wybranie "Fill polygon" z menu.
+Ustawienia œwiat³a 
+	Wybranie odpowiednich opcji z menu po lewej stronie("Choose light color", "Choose light versor") i klikniêcie na przycisk "Apply 	lighting". Przy wybraniu opcji "Light animated on sphere" nale¿y wybraæ d³ugoœæ promienia sfery i za pomoc¹ suwaka mo¿na przesuwaæ 	Ÿród³o œwiat³a.
+Znajdowanie czêœci wspólnej
+	Klikniêcia prawym przyciskiem myszy na krawêdŸ, wybranie z menu "Clip polygons", nastêpnie to samo z drugim wielok¹tem.
+Dodawanie wielok¹tów
+	Klikniêcie na przycisk 'draw' i narysowanie wielok¹ta(zakoñczenie - klikniêcie na pierwszy wierzcho³ek).
+Usuwanie wielok¹tów 
+	Klikniêcie na przycisk "delete" (usuwany jest ostatni dodany wielok¹t lub ostatni wielok¹t bêd¹cy wynikiem wyznaczania czêœci 	wspólnej)
+Dodawanie wierzcho³ków 
+	Klikniêcie prawym przyciskiem myszy na krawêdŸ wielok¹ta i wybranie "Add vertex" z menu.
+Usuwanie wierzcho³ków
+	Klikniêcie prawym przyciskiem myszy na wierzcho³ek wielok¹t i wybranie "Delete vertex" z menu
+Przesuwanie wielok¹ta
+	Klikniêcie lewym przyciskiem myszy na krawêdŸ wielok¹ta, przytrzymanie i przesuniêcie
